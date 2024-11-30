@@ -44,7 +44,7 @@
                         <p>
                             Étude des besoins utilisateurs et conception d’une interface pour améliorer la collaboration entre pharmaciens et robots préparateurs.
                         </p>
-                        <a href="#" target="_blank">En savoir plus</a>
+                        <a href="https://www.figma.com/design/v1LVLaDGnx6lKTbqrjXkdu/IHM-Pharmacie?node-id=0-1&m=dev&t=XxqisdkceLboDoJI-1" target="_blank">En savoir plus</a>
                     </div>
                     <div class="project-card">
                         <h3>Modèle CNN pour l’analyse d’IRM Alzheimer</h3>
