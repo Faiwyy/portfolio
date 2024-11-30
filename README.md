@@ -51,7 +51,7 @@
                         <p>
                             Développement d’un réseau de neurones convolutifs pour détecter et classifier les stades de la maladie d’Alzheimer à partir d’imageries médicales.
                         </p>
-                        <a href="#" target="_blank">En savoir plus</a>
+                        <a href="tresboncnnentrainé.py" target="_blank">En savoir plus</a>
                     </div>
                     <div class="project-card">
                         <h3>Effet de la pratique musicale sur la perception de la parole dans le bruit</h3>
