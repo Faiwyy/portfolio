@@ -74,7 +74,6 @@
             <div class="container">
                 <h2>Contactez-moi</h2>
                 <p>
-                    Intéressée par des collaborations ou des discussions sur l'ergonomie, l'IA, les systèmes intelligents ou l'UX/UI ?
                 </p>
                 <a href="mailto:votre.email@example.com" class="btn-secondary">Envoyer un email</a>
             </div>
