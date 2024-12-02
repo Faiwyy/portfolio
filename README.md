@@ -44,7 +44,9 @@
                         <p>
                             Étude des besoins utilisateurs et conception d’une interface pour améliorer la collaboration entre pharmaciens et robots préparateurs.
                         </p>
-                        <a href="https://www.figma.com/design/v1LVLaDGnx6lKTbqrjXkdu/IHM-Pharmacie?node-id=0-1&m=dev&t=XxqisdkceLboDoJI-1" target="_blank">En savoir plus</a>
+                        <a href="https://www.figma.com/design/v1LVLaDGnx6lKTbqrjXkdu/IHM-Pharmacie?node-id=0-1&m=dev&t=XxqisdkceLboDoJI-1" target="_blank">Figma</a>
+                        <a href="Cahier des charges.pdf" target="_blank">Cahier des charges</a>
+                        <a href="Détail du projet UX _ Interface Homme-Machine entre Pharmaciens et Robots.pdf" target="_blank">Détails du projet UX</a>
                     </div>
                     <div class="project-card">
                         <h3>Modèle CNN pour l’analyse d’IRM Alzheimer</h3>
